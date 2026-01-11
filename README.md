@@ -55,5 +55,11 @@ An AI-powered Telegram bot that helps track, retrieve, and update personal gym w
 ---
 
 ##  Example Commands
+"give me a weight and repetition data of incline dumnbell press"
+"update a weight of incline dumbell press to 50 kg and 8 repetition"
+"add new exercise called jm press"
 
-### Get data
+## How to use the .json
+-log in to n8n, or any workflow automation platform
+-import the json file into n8n
+-setting the credential and api key
